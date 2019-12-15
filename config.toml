@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "fr-fr"
 title = "Test H·U·G·O"
-theme = "github-style"
+theme = ""
 
 [Author]
     name = "Thibaut Delplanque"

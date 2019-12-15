@@ -6,10 +6,19 @@
     <description>Recent content on Test H·U·G·O</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 15 Dec 2019 09:41:27 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2019 10:04:58 +0100</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 15 Dec 2019 10:04:58 +0100</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>About me je suis une petit dev ^^</description>
+    </item>
     
     <item>
       <title>Welcome</title>
@@ -32,6 +41,17 @@
 
 
 Nous verrons sur ce site des actualités, mais aussi des cas d&#39;utilisation, des logiciels et des tutoriels sur Golang.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.org/blog/second-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/second-article/</guid>
+      <description>Second article fzfzf
+Titre de niveau 2 fzfzf
+Info 2 zfzf</description>
     </item>
     
   </channel>

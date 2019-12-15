@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test H·U·G·O</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Test H·U·G·O</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 15 Dec 2019 09:41:27 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://example.org/blog/welcome/</link>
+      <pubDate>Sun, 15 Dec 2019 09:41:27 +0100</pubDate>
+      
+      <guid>http://example.org/blog/welcome/</guid>
+      <description>Welcome Bienvenue sur le nouveaux site
+ un très joli site
+ function main(int index) { console.log(&amp;#39;index: &amp;#39;, index); } </description>
+    </item>
+    
+    <item>
+      <title>Bienvenue sur le site teest-hugo.fr</title>
+      <link>http://example.org/acceuil/</link>
+      <pubDate>Sat, 14 Dec 2019 16:41:23 +0100</pubDate>
+      
+      <guid>http://example.org/acceuil/</guid>
+      <description>Le site Golang.fr vous propose des informations sur la programmation à l&#39;aide du langage Go créé par Google.
+
+
+Nous verrons sur ce site des actualités, mais aussi des cas d&#39;utilisation, des logiciels et des tutoriels sur Golang.</description>
+    </item>
+    
+  </channel>
+</rss>
